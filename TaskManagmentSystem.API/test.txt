@@ -1,0 +1,3 @@
+﻿Employee, Topic, Tag, Assignment entityləriniz var. Layihə bir müəssisənin tapşırıq bölgülərinin aparılması üçün nəzərdə tutulub. 
+Admin (hələki user yaratmayın). Topicə uyğun assignment yaradır. Yaradan zaman taska uyğun tag verir (Məsələn: təcili, sabaha qədər, çox da vacib deyil kimi).
+Əlavə funksionallıqlar dərsdə danışılacaq

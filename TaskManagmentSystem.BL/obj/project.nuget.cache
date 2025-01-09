@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7HNyBtmKQTC4A23G2OmwzNsTgbUU/eUFKazI4MhTRr9h2PFHBguroE1PIbnjeDdi8sP/8d33xK6uNwFWeryew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\classtime\\Desktop\\TaskManagmentSystem\\TaskManagmentSystem.BL\\TaskManagmentSystem.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\classtime\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\classtime\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\classtime\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\classtime\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\classtime\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

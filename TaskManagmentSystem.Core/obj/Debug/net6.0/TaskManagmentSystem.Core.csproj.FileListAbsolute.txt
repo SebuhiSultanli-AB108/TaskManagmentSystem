@@ -1,0 +1,12 @@
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\bin\Debug\net6.0\TaskManagmentSystem.Core.deps.json
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\bin\Debug\net6.0\TaskManagmentSystem.Core.dll
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\bin\Debug\net6.0\TaskManagmentSystem.Core.pdb
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\TaskManagmentSystem.Core.csproj.AssemblyReference.cache
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\TaskManagmentSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\TaskManagmentSystem.Core.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\TaskManagmentSystem.Core.AssemblyInfo.cs
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\TaskManagmentSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\TaskManagmentSystem.Core.dll
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\refint\TaskManagmentSystem.Core.dll
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\TaskManagmentSystem.Core.pdb
+C:\Users\classtime\Desktop\TaskManagmentSystem\TaskManagmentSystem.Core\obj\Debug\net6.0\ref\TaskManagmentSystem.Core.dll
